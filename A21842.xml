@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Queenes Maiesties will and commaundement, to haue certaine lawes and orders put in execution against the excesse of apparell, notified by her commandement in the Starrechamber the xiij. of Februarie in the xxx. yeere of her reigne</title>
+            <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+         </titleStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21842</idno><idno type="EEBO-CITATION">99850608</idno>
+  <idno type="VID">15820</idno>
+  <idno type="EEBO-PROQUEST">2264183817</idno>
+  <idno type="STC">STC 8169</idno>
+  <idno type="STC">ESTC S115389</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99850608e"/>
+            <note>(EEBO-TCP ; phase 2, no. A21842)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 15820)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2283:15a, 565:38)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Queenes Maiesties will and commaundement, to haue certaine lawes and orders put in execution against the excesse of apparell, notified by her commandement in the Starrechamber the xiij. of Februarie in the xxx. yeere of her reigne</title>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I)</author>
+                  <author>Elizabeth I, Queen of England, 1533-1603.</author>
+               </titleStmt>
+               <extent>6 leaves.   </extent>
+               <publicationStmt>
+                  <publisher>By the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>19. Martij. Anno 1587. Cum priuilegio Regiæ Maiestatis. [i.e 1588].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon; year date given according to Lady Day dating.</note>
+                  <note>Another issue of STC 8168.5, with additions: sheets 4-6 with caption title on sheet 4 "A brief content of certaine clauses of the statue of King Henry the eight, and Queene Mary, with some moderations thereof to be obserued accordingly." which reprints sheets 2-4 of STC 8066. Sheets 4 and 5 are signed "D" and "E", respectively, at the bottom. Sheet 2 has the same setting and text as STC 8168.5 but is reimposed and signed "B" at bottom. Sheet 3 is reimposed, omitting imprint and adding leading above and below the headings.--STC.</note>
+                  <note>Imperfect: at reel 2283:15a, first sheet only, bound and filmed preceding sheet 2 of 8168.5.</note>
+                  <note>Reproductions of the originals in: Bodleian Library (reel 565:38), and Folger Shakespeare Library (reel 2283:15a) .</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sumptuary laws --  England --  Early works to 1800.</term>
+               <term type="topical_term">Clothing and dress --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Elizabeth I, 1558-1603 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:15820:1"/>
+            <head>❀ A declaration of the Queenes Maiesties will and commaundement, to haue certaine Lawes and orders put in execution against the excesse of Apparell, notified by her commandement in the Starre<g ref="char:EOLhyphen"/>chamber the xiij. of Februarie in the xxx. yeere of her reigne.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE Queenes Maiestie hath considered into what extremities a great num<g ref="char:EOLhyphen"/>ber of her Subiects are fallen by the vnordinate excesse in aparell, contrary both to the good lawes of the the Realme, and to her Maiesties former admoniti<g ref="char:EOLhyphen"/>ons by her Proclamations, and to the confusion of degrees of all estates, a<g ref="char:EOLhyphen"/>mongst whome diuersitie apparell hath bene alwayes a speciall and lauda<g ref="char:EOLhyphen"/>ble marke, and finally to the impouerishing of the Realme, by dayly bringing into the same of superfluitie of forreine and vnnecessarie commodities, not able to be answered with the naturall marchandise of the Realme, as in all for<g ref="char:EOLhyphen"/>mer times wel gouerned hath bene vsed, and in all other kingdoms and coun<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>s is politiquely obserued. For these and many other weightie considerations, her Maiestie vpon speciall <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of the weale and good gouernment of her kingdome, hath with the aduise of her Counsel, thought it meete <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> most necessary at this time, to notifie in the latter ende of this Terme of <hi>Hillary</hi> in her high Court of the S<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rre chamber, at an assemblie of diuers Lords and others of her priuie Counsell, and all the Iustices of her Courts at westminster, and in the open hearing of a great number of the Iustices of the Peace of all the parts of her Realme, and of a multitude of other of her Subiects, that her earnest meaning is, without delay to haue <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> herd<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap> reformation of this great intollerable abuse, growen to an vnmeasurable disorder, and the same to bee <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> by due erecution of certaine parts of her Lawes remayning in force, insuch sort as may best bee agreeable to the present time: And to that ende, for the best example of all others that can bee, hath alreadie for her owne <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> honourable Housholde charged and authorised the Lorde Steward of her housholde, now present at this <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>mblie, for all persons vnder his charge, and to the Lorde Chamberlaine or Vicechamberlaine for all persons <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>der their rule, to obserue such parts of her saide Lawes, and some necessary orders against excesse of apparel, as are hereafter particularly expressed to be duely obserued: which to doe effectually the said Lord Steward for the housholde, and the Vicechamberlayne in the absence of the Lord Chamberlayne haue vndertaken to see ex<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>rted. And at the same time also, her Maiesties pleasure was declared in her said Starrechamber, by the Lord Chancellor of England (as so commanded by her Maiestie) that all the Iustices of Assises of the Realme, who were then there present, shoulde in their next Circuite through her whole Realme giue knowledge thereof in their open Sessions, &amp; to charge all Iustices of peace, that in their quarter Sessions, and in any other their as<g ref="char:EOLhyphen"/>semblies, and also all Maiors, and Officers of Townes Corporate, &amp; all Officers of Liberties in their Courts, should see to the speedy execution thereof, after conuenient time to be limitted for a reasonable warning, by the said Iustices of Assise, for the due execution and punishment of the offenders, so as no subiect of the Realme shal haue cause by ignorance to continue in their offence. The like commandement also was there in that assemblie giuen by the said Lord Chancelor to all the Heads, Auncients &amp; Principals of houses of Court and Chancerie, where the aforesaide excesse was noted to be more largely of late yeeres spread amongst the youth there, then in any other place of England, to see also to the speedie reformation thereof. The like commaundement also was there remembred to haue bene of late giuen by her Maiesties owne mouth to the Maior of London, and the Al<g ref="char:EOLhyphen"/>dermen of the same, being before her Maiestie in her Presence chamber at her Court. So as it may wel appeare how earnestly her Maiestie is resolued to haue this notable disorder and excesse speedily &amp; earnestly reformed for the benefit of her Realme. At the same assembly also was concluded y<seg rend="sup">t</seg> in the two Vniuersities of Cambridge and Oxford, where this infection was seene to haue made entrie amongst the youth, there should be by the direction of the Lords the Chancelours of the same, a streight order for repressing of the said disordered excesse of Apparell. And though her Maiestie might by iustice of her lawes, make great profite by the execution of the same lawes remaining in force against the said excesse, by leuying the great penalties due to her by execution of the same, and that also some part of the same lawes, being made diuers yeeres past, by the alteration of time, may see me in some part hard to be exactly and duely obserued in all parts: Therefore hir Maiesties meaning was there de<g ref="char:EOLhyphen"/>clared at this time to be to make some proofe of the execution onely of some parts of the same lawes, agreeable to the time heereafter expressed, without charging her subiects with the great forfeitures alreadie due to her Maiestie, except it shall be against such persons as she shall be prouoked finding them disobedient and vnwil<g ref="char:EOLhyphen"/>ling to obey and obserue the speciall clauses and articles hereafter following.</p>
+         </div>
+         <div type="clauses">
+            <div type="clause">
+               <pb facs="tcp:15820:2"/>
+               <head>Certaine clauses taken out of the Statute made for reformation of excesse of Apparell, <hi>the xxiiij. yeere of the reigne of king Henrie the eight.</hi>
+               </head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irst, it is ordered, that no man vnder the degree of a Marquesse, Earle, and their chil<g ref="char:EOLhyphen"/>dren, or vnder the degree of a Baron, vnlesse he be a knight of the order of the garter, shall weare in any part of his apparell, any wollen cloth made out of any of the Queenes Ma<g ref="char:EOLhyphen"/>iesties dominions, except in Bonnettes onely. And no man vnder the estate of an Earle shall weare any cloth of Golde or Siluer, or Tyncell, Satten, or any other Silke or Cloth mixed or embrodered with Golde or Siluer, except Vicounts and Barons to weare in their Dob<g ref="char:EOLhyphen"/>lets or sleeuelesse Coates, cloth of Golde, Siluer, or Tyncell.</p>
+               <p>Item that no man vnder the degree of a Barons sonne, or a Knight, except hee may expende two hundred poundes by yeere, for terme of life, ouer all charges, shall weare any maner of Veluet in his Gowne, Coate, or other his vppermost garment: nor any maner of a embrodery, or pricking with golde, siluer, or silke, in any part of his apparell, or on thapparell of his Horse or Mule.</p>
+               <p>Item that no man vnder the foresaid estates and degree, sauing such as may dispend in yerely reuenues, as is aforesayde, one hundred poundes, aboue all charges, shall weare any Satten, Damaske, Silke Chamblet, or Cassata in his Gowne, Coate, or other his vppermost apparel or garment: nor any Veluet, sauing in sleeuelesse Iackettes, Doblettes, Coyffes, Partelettes, and Purses.</p>
+               <p>Item, that no man vnder the sayde degrees, sauing the sonne and heyre apparant of a man that may dispend three hundred markes by yere, aboue all charges, and such other men as may dispend in yeerely reuenue, as is aforesayde, fourtie poundes ouer all charges, shall weare in his Gowne, or any other his vppermost apparell, Chamblet, or Silke: nor in any other part of his apparell any silke, <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s;aving Satten, Damaske, Taffata, or <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>rsenet in his Doblets: and Sarsenet, Chamblet, or Taffata, in the lyning of his Gownes, or Veluet in his <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>uelesse Coates, Iackets, Ierkins, Coyffes, Cappes, Purses, or Partelets. The colours of Scarlet, Crymsin or Blewe, alwayes excepted.</p>
+               <p>Item, that no man vnder the said degrees, sauing such gentlemen as may dispend in yerely reuenues, as is aforesaid, twentie poundes aboue all charges, shall weare any maner of silke in any apparell of his body, or of his Horse, or Mule, except it be Satten, Taffata, Sarsenet, or Damaske in his Doblet, or Coyffe: and Chamblet in his sleeuelesse Iackets: or poynts, laces, or garters, made in England or Wales.</p>
+               <p>Item, that no person vnder the same degrees, sauing such as may dispend fiue pounds by yeere, as is afore<g ref="char:EOLhyphen"/>said, aboue all charges, shall weare any silke in his Doblettes or Iackettes: nor any thing made out of the Realme, sauing Chamblet in their Doblettes and Iackettes.</p>
+               <p>Item that no Seruing man, nor other Yeoman taking wages, nor such others as may not dispende of free<g ref="char:EOLhyphen"/>holde fourtie shillings by yere, as is aforesaid, shall weare any Shert, or Shert band, vnder or vpper Cappe, Bonet, or Hat garnished, mirt, made, or wrought with silke, golde, or siluer: nor shall weare any Bonet, or Shert band, made out of the Realme of England or Wales.</p>
+               <p>Item, no Husbandman shall weare in his Doblette, any other thing then that which is wrought within this Realme, Fustian and Canuasse onely except.</p>
+               <p>Item, no Seruing man in Husbandry, or Iourneyman in handycraftes, taking wages, shall weare in his Doblet, any other thing then Fustian, Canuas, Leather, or Wollen cloth.</p>
+               <p>¶ Item, if any man shal vse or weare any Apparel or other thing, contrary to y<seg rend="sup">e</seg> tenour of the Articles before remembred, then he so offending, shall forfaite the Apparel and thing so worne, wherewith soeuer it be gar<g ref="char:EOLhyphen"/>nished, or the value thereof, and also iii.s. iiii.d. in the name of a fine, for euery day that he shall so weare the same, contrary to the tenour hereof.</p>
+            </div>
+            <div type="clause">
+               <head>❧ Certaine other clauses of the Statutes, made in the first and second yere of King Philip and Queene Mary, necessary also to be obserued, to auoyde the excesse of apparell.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irst, that no Englishman, sauing the sonne and heyre apparant of a Knight, or such as may of yeerely reuenues during life, expend twentie poundes aboue all charges, or be worth in goods two hundreth poundes, shall weare any maner of silke, in or vpon his Hatte, Bonnet, Nightcap, Gyrdle, Scabberd, Hose, Shooes, or Spurlethers, vpon payne of three moneths imprisonment, and fine of x.li. for euery dayes wearing, contrary to the tenour of this Act.</p>
+               <p>Item, that if any person or persons, of any estate or degree, knowing any seruaunt of his or theirs to offende, contrary to the Article last before remembred, do not put the same seruaunt out of his or their seruice, but shall keepe in his or their seruice the same offendour or offendours, by the space of xiiii. dayes next after such know<g ref="char:EOLhyphen"/>ledge had: or so put out, retayne him againe within one yeere next after such offence, the same person so retay<g ref="char:EOLhyphen"/>ning or keeping in seruice any such offender, shall forfayte one hundreth pounds.
+<pb facs="tcp:15820:3"/>Prouided alwayes, that all and euery person and persons, which by any statute lawe, remaining in force, is licenced or appoynted to weare any maner of thing, contrary to the tenour and meaning of any of the Articles before remembred, or any part of them, shall and may weare the same to him licenced or appointed to weare, as is aforesayde: Any thing in these Articles to the contrary notwithstanding.</p>
+            </div>
+            <div type="clause">
+               <head>❧ Certaine other orders meete in this time to be obserued for reformation of the excesse in certaine kinde of Apparell.</head>
+               <p>
+                  <seg rend="decorInit">F</seg>Irst, it is further ordered, that no man vnder the degree of a Barons sonne, except that hee be of the order of the Garter, or of the Priuie Counsell, or that may dispend fiue hundred markes by yeere, for terme of life in possession, aboue all charges, shall vse any embroderies or passemayns of Golde or Siluer: nor shall weare any maner of silke neatherstocks of hosen, nor of any other thing, made out of the Queenes Maiesties Dominions.</p>
+               <p>Item, it is further ordered, that all the articles before remembred, shalbe put in execution in all points, by all maner of officers, according to the Statutes, lawes, and proclamations heretofore made and set forth, concer<g ref="char:EOLhyphen"/>ning the same. And for such as shall contemne any of the orders before mencioned, being deuised by her Maie<g ref="char:EOLhyphen"/>sties commandement, the offendors to be attached, and committed to prison, and to be there continued and pu<g ref="char:EOLhyphen"/>nished, as appertaineth to such as shall wilfully breake her Maiesties commaundement in causes concerning the publike weale of the Realme.</p>
+               <p>It is not meant for any thing aboue expressed, but that the seruants of Noblemen and gentlemen may weare such liuerie coates, as their masters shall allowe them, with their Badges or other ornamentes of any beluet or silke, to be laide, or added to their saide liuerie coates.</p>
+            </div>
+            <div type="clause">
+               <argument>
+                  <p>
+                     <date>XXV. Februar. <hi>1587.</hi>
+                     </date>
+                  </p>
+               </argument>
+               <head>Certaine notes out of the Statutes aboue mentioned for dispensations with sundry persons not being in any certainetie afore expressed, whereof all such persons as thereby are to be dispensed withall, may be better informed by perusal of the said Statutes.</head>
+               <p>
+                  <seg rend="decorInit">A</seg>Ll Officers and seruants waiting vpon the Queenes Maiestie her Housholde, being in her Checke Roll, may weare such Apparell as to them shalbe limitted, licensed and declared in writing by her Maiestie, or by the L. Stewarde of her Housholde, or by the L. Chamber<g ref="char:EOLhyphen"/>laine, they knowing the same to be the Queenes Maiesties pleasure.</p>
+               <p>There are also speciall and seuerall prouisions conteined in the saide Statute for sundrie degrees of persons as hereafter followeth. First for the L. Chancellour, and L. Treasourer of England, the President of the Kings Counsel, the L. Priuie seale, of what degree soeuer they be: And in like maner there are prouisions for all persons hauing taken degrees of learning in any Vni<g ref="char:EOLhyphen"/>uersitie, and also for any of the Kings most honourable Counsel, Iustices of the Benches, Barons of the Esche<g ref="char:EOLhyphen"/>quer, Master of the Rolles, Sergeants of the Lawe, Masters of the Chancerie, Apprentices of the Lawe, the Kings Phisitions, all head Officers of Townes corporate, Barons of the v. Portes. Prouisions also are there expressed for vtter Barresters in Innes of Court, to weare such Apparell as men that can dispende xx.li. lands may do. And in like maner prouisions are made for Students of the Innes of Court or Chancerie, &amp; seruants to Noble men and Gentlemen for their Dublets or Iackets. Of all which prouisions or exceptions with sundrie others conteined in the said Statute not here particularly expressed, apperteining to a fewe other, euery person is to informe himselfe diligently, howe farre foorth hee or they may by license of the saide prouisions, weare any thing prohibited by the generall wordes of the Lawe.</p>
+               <p>A prouision is in the Statute of K. Philip and O. Mary, that the same statute shall not extende to any person, being of or aboue the degree of a Knights sonne or daughter, nor to the wife of any such, nor to any Maior or principal Officer of any towne Corporate, nor to the wife of any of them, nor to any of the Queenes seruants in ordinarie wages, and wearing the Queenes ordinarie Liueries, but that they may weare such Apparell, as they lawfully might haue done, before the making of the said Statute.</p>
+               <p>There is a prouiso also that no person shalbe compelled by the Acte to put away his Prentise, or hired seruant before the ende of his terme, nor to forfeite anything for the keeping of such Prentise or seruant after his offence, vnto the ende of the terme.</p>
+               <p>A prouiso also is for women to weare in their Cappes, Hattes, Girdels, and Hoods, as they might haue done lawfully before the making of the same Statute.</p>
+            </div>
+         </div>
+         <div type="diagrams">
+            <pb facs="tcp:15820:4"/>
+            <head>❀ A briefe content of certaine clauses of the Statute of King Henry the eight, and Queene <hi>Mary, with some moderations thereof to be <hi>obserued accordingly.</hi>
+               </hi>
+            </head>
+            <div n="Men" type="diagram">
+               <head>❧ Mens apparell.</head>
+               <list>
+                  <head>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <item>
+                     <p>Silke of the colour of purpure, Cloth of golde tissued, nor furre of Sables. <hi>but on<g ref="char:EOLhyphen"/>ly the</hi>
+                        <list>
+                           <item>King.</item>
+                           <item>Queene.</item>
+                           <item>Kings
+<list>
+                                 <item>Mother.</item>
+                                 <item>Children.</item>
+                                 <item>Brethren &amp; sisters.</item>
+                                 <item>Vncles &amp; Auntes.</item>
+                              </list>
+                           </item>
+                        </list>
+                        <hi>and ex<g ref="char:EOLhyphen"/>cept</hi> Dukes, Marquesses, &amp; Earles, who may weare the same in Dublets, Ierkins, lynings of Clokes, Gownes and Hose. And those of the Garter, Pur<g ref="char:EOLhyphen"/>ple in Mantels onely.</p>
+                  </item>
+                  <item>
+                     <list>
+                        <item>Cloth of
+<list>
+                              <item>Golde.</item>
+                              <item>Siluer.</item>
+                              <item>Tinseld Satten.</item>
+                           </list>
+                        </item>
+                        <item>Silke, or Cloth mixt or embrodered with an Golde or Siluer.</item>
+                     </list>
+                     <p>
+                        <hi>except</hi> All degrees aboue Vicounts, and Vicounts, Barons, and other persons of like degrees, in Dublettes, Ierkins, lynings of Clokes, Gownes and Hose.</p>
+                  </item>
+                  <item>
+                     <p>Wollen cloth made out of the Realme, but in Cappes onely.
+<list>
+                           <item>Veluet
+<list>
+                                 <item>Crimson or</item>
+                                 <item>Scarlet.</item>
+                              </list>
+                           </item>
+                           <item>Furres
+<list>
+                                 <item>Blacke Ienets.</item>
+                                 <item>Lusernes.</item>
+                              </list>
+                           </item>
+                        </list> Embroderie, or Taylers worke, hauing golde, or Siluer, or pearle therein.</p>
+                     <p>
+                        <hi>except</hi> Dukes, Marquesses, Earles and Their children. Vicountes, Barons, and Knightes, being companions of the Garter, or any person be<g ref="char:EOLhyphen"/>ing of the Priuie Counsell.</p>
+                  </item>
+                  <item>
+                     <p>
+                        <list>
+                           <item>Veluet in Gownes, Coates, or other vtter<g ref="char:EOLhyphen"/>most garments.</item>
+                           <item>Furre of Libards.</item>
+                           <item>Embroderie with any Silke.</item>
+                        </list>
+                        <hi>except</hi> Men of the degrees aboue mentioned, Ba<g ref="char:EOLhyphen"/>rons sonnes, Knights, and Gentlemen in or<g ref="char:EOLhyphen"/>dinarie office attendant vpon her Maiesties person, and such as haue bene employed in Ambassages to forreine Princes.</p>
+                  </item>
+                  <item>
+                     <p>
+                        <list>
+                           <item>Cappes, Hattes. </item>
+                           <item>Hatbands, Capbands.</item>
+                           <item>Garters, Bootehose.</item>
+                           <item>Silke Netherstockes. </item>
+                        </list>
+                        <hi>trimmed with</hi> Golde or siluer, or Pearle. Enamelled
+<list>
+                           <item>Chaines.</item>
+                           <item>Buttons.</item>
+                           <item>Aglets.</item>
+                        </list>
+                        <hi>except</hi> Men of the degrees aboue mentioned, the Gentlemen attending vpō the Queenes per<g ref="char:EOLhyphen"/>son in her highnsse Priuie Chamber, or in the office of Cupbearer, Caruer, Shewer, Es<g ref="char:EOLhyphen"/>quier for the body, Gentlemen Vshers, or Es<g ref="char:EOLhyphen"/>quiers of the Stable.</p>
+                  </item>
+                  <item>
+                     <p>Satten, Damaske, Silke Chamlet, or Taffata, in Gowne, Coate, Hose, or vppermost garments. Furre whereof the kinde groweth not within the Queenes Dominions, except Foynes, gray Ienets and Budge.</p>
+                     <p>
+                        <hi>except</hi> The degrees and persons aboue mentioned, and men that may dispende C.li. by the yeere, and so valued in the Subsidie Booke.</p>
+                  </item>
+                  <item>
+                     <p>
+                        <list>
+                           <item>Hat, Bennet, Girdle, Scab<g ref="char:EOLhyphen"/>berds of swords, daggers, &amp;c. of Veluet.</item>
+                           <item>Shoes and Pantophles. of Veluet.</item>
+                        </list>
+                        <hi>except</hi> The degrees and persons aboue named, and the Sonne and heire apparant of a Knight.</p>
+                  </item>
+                  <item>
+                     <list>
+                        <item>Silke, other then Satten, Damaske, Taffa<g ref="char:EOLhyphen"/>ta, Chamlet, in Dublettes: and Sarcenet, Chamlet, or Taffata, in facing of Gownes and Clokes, and in Coates, Iackets, Ierkins, Coyfes, Purses, being not of colour Scarlet, Crimson, or Blewe.</item>
+                        <item>Furre of Foynes, gray Ienets, or other, as the like groweth not in the Queenes dominions.</item>
+                     </list>
+                     <p>
+                        <hi>except</hi> Men of the degrees and persons aboue men<g ref="char:EOLhyphen"/>tioned, sonne of a Knight, or sonne and heire apparant of a man of C C C. Marke lande by yeere, so valued in the Subsidie Bookes, and men that may dispende xl.li. by the yeere, so valued, <hi>vt supra.</hi>
+                     </p>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <item>Gilt, Siluered, or Damasked.
+<list>
+                        <item>Spurres.</item>
+                        <item>Swords.</item>
+                        <item>Rapiers.</item>
+                        <item>Daggers.</item>
+                        <item>Skaynes.</item>
+                        <item>Woodkniues, or Hangers.</item>
+                        <item>Buckles of Girdles.</item>
+                     </list>
+                     <p>
+                        <hi>except</hi> Knightes and Barons sonnes, and other of higher degree or place, and Gentlemen in or<g ref="char:EOLhyphen"/>dinarie office attendant vpon the Queenes Maiesties person, which Gentlemen so at<g ref="char:EOLhyphen"/>tendant, may weare all the premisses, sauing gilt, siluered, or Damasked Spurres.</p>
+                  </item>
+               </list>
+               <pb facs="tcp:15820:5"/>
+               <list>
+                  <head>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <item>
+                     <p>Trappings or harnesse of their horse, any Studdes, Buckels, or other garniture, gilt, siluered or damasked, nor Stirrops gilte, siluered, or da<g ref="char:EOLhyphen"/>masked, nor any veluet in Saddels or horse Trappers, <hi>except</hi> The persons next before mentioned, and others of higher degrees, and Gentlemen in ordinarie, <hi>vt supra.</hi>
+                     </p>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <item>
+                     <list>
+                        <item>Chauncellour.</item>
+                        <item>Treasourer.</item>
+                        <item>President of the Counsel.</item>
+                        <item>Priuie Seale.</item>
+                     </list>
+                     <p>
+                        <hi>may weare any</hi>
+                        <list>
+                           <item> Veluet, Satten, or other Silkes, except Purpure.</item>
+                           <item>Furries, except blacke Ienets.</item>
+                        </list>
+                     </p>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <item>
+                     <list>
+                        <item>Kings Counsell.</item>
+                        <item>Iustices of either Benche.</item>
+                        <item>Barons of the Eschequer.</item>
+                        <item>Master of the Rolles.</item>
+                        <item>Sergeants at Lawe.</item>
+                        <item>Masters of the Chauncerie.</item>
+                        <item>Of the Queenes Counsell.</item>
+                        <item>Apprentises of Lawe.</item>
+                        <item>Phisitions of the King, Queene, and Prince.</item>
+                        <item>Maiors and other head officers of any townes corporate.</item>
+                        <item>Barons of the v. Ports.</item>
+                     </list>
+                     <p>
+                        <hi>except</hi>
+                        <list>
+                           <item>Veluet.</item>
+                           <item>Damaske.</item>
+                           <item>Satten.</item>
+                        </list>
+                        <hi>of the colour</hi>
+                        <list>
+                           <item>Crimson.</item>
+                           <item>Violet,</item>
+                           <item>Purpure,</item>
+                           <item>Blewe.</item>
+                        </list>
+                     </p>
+                  </item>
+               </list>
+               <p>
+                  <hi>Note that her Maiesties meaning is not, by this order, to forbid in any person wearing of sylke buttons, the facing of Coates, Clokes, Hattes, and Cappes, for comlynesse onely with Taffata, Grograyne, Veluet, or other sylke as is commonly vsed.</hi>
+               </p>
+               <p>
+                  <hi>Note also that the meaning of this order, is not to prohibite a seruant frō wearing of any cog<g ref="char:EOLhyphen"/>nisance of his master, or Henchmen, Heralds, Purseuantes at armes, Runners at Iustes, Tur<g ref="char:EOLhyphen"/>naies, or such martiall feates, and such as weare apparell giuen by the Queene, and such as shall haue licence from the Queene for the same.</hi>
+               </p>
+            </div>
+            <div n="Women" type="diagram">
+               <head>¶ Womens apparrell.</head>
+               <list>
+                  <head>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <item>
+                     <p>Cloth of Golde, Tissue, nor Furre of Sables. <hi>except</hi> Duchesses, Marquesses, and Countesses, in their Gownes, Kertles, Partlets, &amp; Sleeues.</p>
+                  </item>
+                  <item>
+                     <p>Cloth of
+<list>
+                           <item>Golde.</item>
+                           <item>Siluer.</item>
+                           <item>Tinseld Satten.</item>
+                        </list> Silke or cloth mixed or imbrodered with gold, or Siluer, or Pearle, sauing silke mixed with Golde or Siluer in linings of Caules, Parte<g ref="char:EOLhyphen"/>lets, and Sleeues. </p>
+                     <p>
+                        <hi>except</hi> All degrees aboue Vicountesses, &amp; Vicoun<g ref="char:EOLhyphen"/>tesses, Baronnesses, and other personages of like degrees, in their Kirtles and Sleeues.</p>
+                  </item>
+                  <item>
+                     <list>
+                        <item>Veluet
+<list>
+                              <item>Crimson.</item>
+                              <item>Carnation.</item>
+                           </list>
+                        </item>
+                        <item>Furres
+<list>
+                              <item>Blacke Ienets.</item>
+                              <item>Lusernes.</item>
+                           </list>
+                        </item>
+                        <item>Embrode<g ref="char:EOLhyphen"/>rie or passe<g ref="char:EOLhyphen"/>mēt lace of Golde or Siluer.</item>
+                     </list>
+                     <p>
+                        <hi>except</hi>
+                        <list>
+                           <item>All degrees aboue mentioned.</item>
+                           <item>The wiues of Knightes of the Garter, and of the priuie Counsel.</item>
+                           <item>The Ladies and gētlewomen of the Priuie Chamber, and bedde Chamber, &amp; Mai<g ref="char:EOLhyphen"/>dens of honour.</item>
+                        </list>
+                     </p>
+                  </item>
+               </list>
+               <pb facs="tcp:15820:6"/>
+               <list>
+                  <head>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <item>
+                     <list>
+                        <item>
+                           <gap reason="illegible" resp="#murp" extent="1 word">
+                              <desc>〈◊〉</desc>
+                           </gap> in Gownes</item>
+                        <item>Furres of Libardes.</item>
+                        <item>Embroderie of Silke.</item>
+                     </list>
+                     <p>
+                        <hi>except</hi> The degrees and persons aboue mentioned, the wiues of Barons sonnes, or of Knightes.</p>
+                  </item>
+                  <item>
+                     <list>
+                        <item>Caules. Sleeues. P<gap reason="illegible" resp="#murp" extent="2 letters">
+                              <desc>••</desc>
+                           </gap>tlets, and ly<g ref="char:EOLhyphen"/>nings, trimmed. With Spangles, or Purles of Golde, Siluer, or Pearle.</item>
+                        <item>Caules of Golde, or Siluer, or of Silke, mixed with Golde or Siluer.</item>
+                     </list>
+                     <p>
+                        <hi>except</hi> The degrees and persons aboue mentioned, and trimmed with Pearle, none vnder the degree of a Baronesse, or those of like degrees.</p>
+                  </item>
+                  <item>
+                     <p>Enamelled
+<list>
+                           <item>Chaines.</item>
+                           <item>Buttons.</item>
+                           <item>Aglettes.</item>
+                           <item>Borders.</item>
+                        </list>
+                        <hi>except</hi> The degrees before mentioned.</p>
+                  </item>
+                  <item>
+                     <list>
+                        <item>Saten, Damaske, or tuffed Taffata. <hi>in</hi> Gownes, Kyrtles, or Veluet in Kyrtles.</item>
+                        <item>Furre, whereof the kinde groweth not with<g ref="char:EOLhyphen"/>in the Queenes Dominions, except Foynes, gray Ienettes, Budge, and Woolfe.</item>
+                     </list>
+                     <p>
+                        <hi>except</hi> The degrees or persons aboue mentioned, or the wiues of those that may dispend C.li. by the yere, and so valued in the Subsidie booke.</p>
+                  </item>
+                  <item>
+                     <p>Gownes of
+<list>
+                           <item>Silke Grograine.</item>
+                           <item>Dubled Sarcenet.</item>
+                           <item>Chamlet, or Taffata,</item>
+                           <item>or Kyrtles of Saten, or Damaske.</item>
+                        </list>
+                        <hi>except</hi> The degrees and persons aboue mentioned, &amp; the wiues of the sonnes and heyres of Knightes, and the daughters of Knightes, and of such as may dispende iii. C. markes by the yeere, so valued <hi>vt supra,</hi> and the wiues of those that may dispende xl.li. by the yeere. </p>
+                  </item>
+               </list>
+               <list>
+                  <item>
+                     <p>Gentlewomen at<g ref="char:EOLhyphen"/>tendant vpon Dutchesses, Marquesses, Countesses, may weare in their liueries giuē them by their mistresses, as y<seg rend="sup">e</seg> wiues of those that may dispend C.li. by the yeere, and are so valued, <hi>vt supra.</hi>
+                     </p>
+                  </item>
+                  <item>
+                     <p>Gentlewomen attendant vpon Vicounts wiues, and Barons wiues, may weare in their liueries, as the daughters of such as may dispend iii.C. markes by the yeere, and as the wiues of those that may dispend xl.li. valued, <hi>vt supra.</hi>
+                     </p>
+                  </item>
+               </list>
+               <list>
+                  <head>
+                     <gap reason="illegible: left margin cropped or obscured" resp="#murp" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </head>
+                  <item>
+                     <p>Veluet, tuffed Taffata, Saten, or any Golde, or Siluer, in their Peticotes.</p>
+                     <p>
+                        <hi>except</hi> Wiues of Barons, Knights of y<seg rend="sup">e</seg> Order, or Coun<g ref="char:EOLhyphen"/>sellours, Ladies, and Gentlewomen of the priuie chamber, &amp; bed chamber, &amp; the maidens of honor.</p>
+                  </item>
+                  <item>
+                     <p>Damaske, Taffata, or other Silke in their Peticotes.</p>
+                     <p>
+                        <hi>except</hi> Knightes daughters, and such as bee matched with them in the former article, who shall not weare a gard of any Silke vpon their Peticotes.</p>
+                  </item>
+                  <item>
+                     <p>Veluet, tuffed Taffata, Saten, or any Golde, or Siluer in any Cloke or Sauegard.</p>
+                     <p>
+                        <hi>except</hi> The wiues of Barons, Knightes of the Order, or Counsellours, Ladyes, and Gentlewomen of the priuie Chamber, and bed chamber, and the maydens of honour, and all degrees aboue them.</p>
+                  </item>
+                  <item>
+                     <p>Damaske, Taffata, or other Silke. in any Cloke or Sauegard.</p>
+                     <p>
+                        <hi>except</hi> Knight wyues, and the degrees and persons aboue mentioned.</p>
+                  </item>
+               </list>
+               <p>* <hi>No persons vnder the degrees aboue specified, shall weare any garde or welt of Sylke, vpon any Peticoate, cloake, or Sauegarde.</hi>
+               </p>
+            </div>
+            <closer>God saue the Queene.</closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>❀ Imprinted at London by the deputies of Christopher Barker, printer to the Queenes most excellent Maiestie.</p>
+            <p>19. Martij. Anno 1587.</p>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>
+                           <hi>Cum priuilegio Regiae Maiestatis.</hi>
+                        </p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+         </div>
+      </back>
+   </text>
+</TEI>
